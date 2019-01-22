@@ -1,6 +1,10 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 * {
   box-sizing: border-box;
+}
+
+@-ms-viewport{
+  width: device-width;
 }
 
 /* Style the body */
