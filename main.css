@@ -187,6 +187,7 @@ body {
 .people_row {
   content: "";
   clear: both;
+  display: flex;
   display: table;
 }
 
