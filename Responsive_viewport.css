@@ -40,14 +40,14 @@ div.desc {
  width: 24.99999%;
  }
 
- @media only screen and (max-width : 320px) {
+ @media only screen and (max-width : 480px) {
  .responsive {
  width: 100%;
  padding-bottom: 100%;
  }
  }
  @media only screen and (max-width : 650px) and (min-width 
-: 321px) {
+: 481px) {
  .responsive {
  width: 50%;
  padding-bottom: 50%;
