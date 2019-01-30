@@ -156,22 +156,6 @@ body {
   padding: 20px;
 }
 
-
-
-/*figure {
-  float: left;
-  width: 25%;
-  text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
-}
-*/
-
-/* Fake image, just for this example */
 .fakeimg {
   background-color: #aaa;
   width: 70%;
